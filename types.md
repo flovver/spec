@@ -1,0 +1,15 @@
+Типы
+====
+
+Builtins
+--------
+
+1. Number, String, Boolean
+2. List
+
+User-defined
+------------
+
+1. Tuples
+2. Variants
+3. Records (what about design and implementation?)
