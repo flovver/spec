@@ -6,6 +6,7 @@ Builtins
 
 1. Number, String, Boolean
 2. List
+3. Functions
 
 User-defined
 ------------
